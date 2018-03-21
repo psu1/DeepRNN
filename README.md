@@ -6,6 +6,13 @@ Existing methods for arterial blood pressure (BP) estimation directly map the in
 ![](deepRnn.png)
 
 ## Result
+Detailed analysis of our Deep RNN models with comparison with different reference models. DeepRNN-xL
+represents a x layer RNN model. All the models are validated on the static continuous BP dataset. (unit: mmHg)
+<p align="center"> 
+<img src="table1.png">
+</p>
+
+
 Bland-Altman plots of the overall SBP and DBP predictions by a DeepRNN-4L model on the static continuous BP dataset. 
 ![](plotResult.png)
 
