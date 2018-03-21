@@ -6,10 +6,19 @@ Existing methods for arterial blood pressure (BP) estimation directly map the in
 ![](deepRnn.png)
 
 ## Result
+Bland-Altman plots of the overall SBP and DBP predictions by a DeepRNN-4L model on the static continuous BP dataset. 
 ![](plotResult.png)
+
+Overall RMSE comparison of different models on the multi-day continuous BP dataset.
 ![](4day_result_plot.png)
 
+Qualitative example to show the
+capability of DeepRNN to track long-term BP variation 
+Figure (a), (b), (c) and (d) represent the results of 1st day, 2nd day, 4th day and 6th month after the 1st day, respectively.
+![](4day_prediction.png)
+
 ## Demo
+
 [![Test example](demo.png)](https://www.youtube.com/watch?v=XrGDeM75zsc&feature=youtu.be)
 
 
