@@ -2,6 +2,10 @@
 
 Due to the patent issue, the code and dataset will be released later. 
 
+## Result
+![](ba_plot_Ls_num.pdf)
+
+
 ## Demo
 [![Alt text for your video](https://www.youtube.com/watch?v=XrGDeM75zsc&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=XrGDeM75zsc&feature=youtu.be)
 
