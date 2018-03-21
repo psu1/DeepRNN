@@ -1,6 +1,5 @@
 # Long-term Blood Pressure Prediction with Deep Recurrent Neural Networks
 
-Due to the patent issue, the code and dataset will be released later. 
 
 ## Result
 ![](plotResult.png)
@@ -18,4 +17,5 @@ Due to the patent issue, the code and dataset will be released later.
 	  Year = {2017}
     }
     
+Due to the patent issue, the code and dataset will be released later. 
   
