@@ -1,8 +1,8 @@
 # Long-term Blood Pressure Prediction with Deep Recurrent Neural Networks
 
 
-##Model
-![](deepRNN.png)
+## Model
+![](deepRnn.png)
 
 ## Result
 ![](plotResult.png)
