@@ -2,7 +2,7 @@
 
 
 ## Video Demo
-In nutshell, we build a novel Recurrent Neural Networks to predict arterial blood pressure (BP) from ECG and PPG signals which can be easily collected from wearable devices. The top two channels in the demo below are input ECG and PPG signals, the ground truth and real-time BP prediction are displyed at bottom channel.
+In nutshell, we build a novel Recurrent Neural Networks to predict arterial blood pressure (BP) from ECG and PPG signals which can be easily collected from wearable devices. The top two channels in the demo below are input ECG and PPG signals, the BP ground truth and real-time BP prediction are displyed at bottom channel.
 [![](demo.png)](https://www.youtube.com/watch?v=XrGDeM75zsc&feature=youtu.be)
 
 
