@@ -1,5 +1,6 @@
 [Paper](https://arxiv.org/abs/1705.04524)	&nbsp;&nbsp;	
-[Poster](http://www.ee.cuhk.edu.hk/~psu/img/BHI2018.pdf)
+[Poster](http://www.ee.cuhk.edu.hk/~psu/img/BHI2018.pdf) &nbsp;&nbsp;	
+[Project](https://psu1.github.io/DeepRNN/)
 
 
 ## Video Demo (real-time BP prediction)
