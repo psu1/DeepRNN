@@ -1,4 +1,5 @@
-# Long-term Blood Pressure Prediction with Deep Recurrent Neural Networks
+[Paper](https://arxiv.org/abs/1705.04524)	&nbsp;&nbsp;	
+[Poster](http://www.ee.cuhk.edu.hk/~psu/img/BHI2018.pdf)
 
 
 ## Video Demo (real-time BP prediction)
