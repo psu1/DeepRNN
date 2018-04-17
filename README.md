@@ -50,20 +50,22 @@ Figure (a), (b), (c) and (d) represent the results of 1st day, 2nd day, 4th day 
 
 
 ## Citation
-    @article{su2017predicting,
-      Author = {Su, Peng and Ding, Xiao-Rong and Zhang, Yuan-Ting and Liu, Jing and Miao, Fen and Zhao, Ni},
-      Title = {Long-term Blood Pressure Prediction with Deep Recurrent Neural Networks},
-	Journal = {arXiv preprint arXiv:1705.04524},
-	  Year = {2017}
-    }
-    
     @inproceedings{su2018long,
   	title={Long-term Blood Pressure Prediction with Deep Recurrent Neural Networks},
-  	author={Su, Peng and Ding, Xiao-Rong and Zhang, Yuan-Ting and Liu, Jing and Miao, Fen and Zhao, Ni},
- 	 booktitle={Biomedical \& Health Informatics (BHI), 2018 IEEE EMBS International Conference on},
- 	 year={2018},
+ 	author={Su, Peng and Ding, Xiao-Rong and Zhang, Yuan-Ting and Liu, Jing and Miao, Fen and Zhao, Ni},
+  	booktitle={Biomedical \& Health Informatics (BHI), 2018 IEEE EMBS International Conference on},
+  	pages={323--328},
+  	year={2018},
   	organization={IEEE}
-}
+	}
+    
+    @article{su2017predicting,
+  	title={Predicting Blood Pressure with Deep Bidirectional LSTM Network},
+  	author={Su, Peng and Ding, Xiaorong and Zhang, Yuanting and Li, Ye and Zhao, Ni},
+  	journal={arXiv preprint arXiv:1705.04524},
+  	year={2017}
+	}
+
     
 Due to the patent issue, the code and dataset will be released later. 
   
