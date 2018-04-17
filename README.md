@@ -68,8 +68,5 @@ Figure (a), (b), (c) and (d) represent the results of 1st day, 2nd day, 4th day 
   	author={Su, Peng and Ding, Xiaorong and Zhang, Yuanting and Li, Ye and Zhao, Ni},
   	journal={arXiv preprint arXiv:1705.04524},
   	year={2017}
-	}
-
-    
-Due to the patent issue, the code and dataset will be released later. 
+	} 
   
