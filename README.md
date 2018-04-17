@@ -1,4 +1,5 @@
-[Paper](https://arxiv.org/abs/1705.04524)	&nbsp;&nbsp;	
+[arXiv](https://arxiv.org/abs/1705.04524)	&nbsp;&nbsp;
+[Paper](https://ieeexplore.ieee.org/abstract/document/8333434/)	&nbsp;&nbsp;
 [Poster](http://www.ee.cuhk.edu.hk/~psu/img/BHI2018.pdf) &nbsp;&nbsp;	
 [Project](https://psu1.github.io/DeepRNN/)
 
@@ -32,7 +33,7 @@ represents a x layer RNN model. All the models are validated on the static conti
 </p>
 
 
-Bland-Altman plots of the overall SBP and DBP predictions by a DeepRNN-4L model on the static continuous BP dataset. 
+Bland-Altman plots of the overall SBP and DBP predictions by a DeepRNN-4L model on the static continuous BP dataset.  
 ![](plotResult.png)
 
 
