@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: Long-term Blood Pressure Prediction with Deep Recurrent Neural Networks
 description: Peng Su, Xiao-Rong Ding, Yuan-Ting Zhang, Jing Liu, Fen Miao, and Ni Zhao
+github:
+  zip_url: https://arxiv.org/abs/1705.04524
+  another_url: http://www.ee.cuhk.edu.hk/~psu/img/BHI2018.pdf
