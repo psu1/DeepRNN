@@ -70,3 +70,7 @@ Figure (a), (b), (c) and (d) represent the results of 1st day, 2nd day, 4th day 
   	year={2017}
 	} 
   
+## Acknowledgment
+The Chinese University of Hong Kong  
+Intelligent Sensing Limited  
+Key Laboratory for Health Informatics of the Chinese Academy of Sciences
