@@ -4,9 +4,8 @@
 [Project](https://psu1.github.io/DeepRNN/)
 
 
-## Video Demo (real-time BP prediction)
+## Demo (real-time BP prediction)
 In nutshell, we build a novel Recurrent Neural Networks to predict arterial blood pressure (BP) from ECG and PPG signals which can be easily collected from wearable devices. The top two channels in the demo below are input ECG and PPG signals, the bottom channel plots the real-time BP prediction and BP ground truth.
-[![](demo1.png)](https://www.youtube.com/watch?v=4fLw79l3Dh4&feature=youtu.be)
 
 
 ## Project at a glance
