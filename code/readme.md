@@ -1,5 +1,5 @@
-# main training file
+## Main training file
 train.py
 
-# model definition
+## Model definition
 model.py
