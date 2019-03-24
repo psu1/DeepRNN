@@ -1,1 +1,5 @@
-Due to the patent issue, the code and dataset will be released later.
+# main training file
+train.py
+
+# model definition
+model.py
